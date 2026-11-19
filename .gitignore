@@ -1,0 +1,11 @@
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+/build/*
+/dist/*
+!/build/.gitkeep
+!/dist/.gitkeep
+
+# Local only: Claude working notes (machine paths)
+CLAUDE.md

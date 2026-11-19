@@ -1,0 +1,16 @@
+{
+  "dependencies": [
+    {
+      "name": "PHP",
+      "purpose": "Runs tests/build-test.php",
+      "optional": true,
+      "check": { "run": "php -v" },
+      "install": "winget install --id PHP.PHP.8.3 -e --accept-package-agreements --accept-source-agreements"
+    },
+    {
+      "name": "Python",
+      "check": { "run": "python --version" },
+      "install": "winget install --id Python.Python.3.12 -e --accept-package-agreements --accept-source-agreements"
+    }
+  ]
+}
