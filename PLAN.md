@@ -1,6 +1,6 @@
 # acf-job-schema: plan
 
-Status (19th November 2026): v0.1.0 built, not yet released. All automated tests pass on the local Studio site: 67 builder checks, 22 WordPress checks, 40 front-end checks. The complete fixture's markup passes Google's Rich Results Test as a valid Job Posting (one optional note: no `addressRegion`, because the fixture maps no county). Not yet tested: the admin screens by eye (needs a login), Rank Math and LiteSpeed Cache (not installed locally), and a real release and update.
+Status (19th November 2026): v0.1.0 released 19th November 2026. All automated tests pass on the local Studio site: 67 builder checks, 22 WordPress checks, 40 front-end checks. The complete fixture's markup passes Google's Rich Results Test as a valid Job Posting (one optional note: no `addressRegion`, because the fixture maps no county). Not yet tested: the admin screens by eye (needs a login), Rank Math and LiteSpeed Cache (not installed locally), and updating from this release to a later one.
 
 ## Goal
 
